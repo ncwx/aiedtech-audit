@@ -2,9 +2,9 @@
 
 This repository contains the framework, protocols, templates, sampling materials and criterion-level results supporting the study:
 
-*Beyond Usefulness: Auditing Five AIEdTech Tools for Primary and Secondary Education Teachers*
+*Beyond Usefulness: A Child-Rights and AI-Governance Audit of AIEdTech Tools for Teachers*
 
-The study develops and applies a structured external black-box audit for teacher-facing and teacher-mediated generative AI tools used in K–12 education.
+The study develops and applies a black-box audit for teacher-facing and teacher-mediated AIEdTech tools.
 
 ## Repository contents
 
@@ -33,7 +33,7 @@ Evidence was collected from three sources:
 
 - **D — Documentation:** first-party provider documentation.
 - **W — Product Walkthrough:** observable interface, settings, disclosures and controls.
-- **B — Structured Behavioral Testing:** standardized prompts and recorded GenAI responses.
+- **B — Structured Behavioral Testing:** standardized prompts and recorded AIEdTech tool responses.
 
 Evidence sources were kept separate during collection so that provider claims, observable interface features and generated behaviour were not collapsed into a single judgement.
 
@@ -64,10 +64,6 @@ To apply the methodology to another tool:
 
 ## Methodological scope
 
-The methodology is an external black-box audit. It does not establish definitive legal compliance and cannot directly inspect inaccessible internal processes such as complete training-data provenance, server-side processing or internal risk-management systems.
+The methodology is a black-box audit. It does not establish definitive legal compliance and cannot directly inspect inaccessible internal processes such as complete training-data provenance, server-side processing or internal risk-management systems.
 
 Commercial products may also change over time. Findings therefore reflect the versions, access conditions and evidence available during the audit period.
-
-## Citation
-
-Citation information will be added following publication.
